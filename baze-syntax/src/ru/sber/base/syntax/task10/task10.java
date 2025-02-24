@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class task10 {
     public static void main(String[] args) {
         System.out.print("Введите ваше имя: ");
-        String name = new Scanner(System.in).next()ж
+        String name = new Scanner(System.in).next();
 
         javax.swing.JOptionPane.showMessageDialog(null, "Привет, " + name);
     }
