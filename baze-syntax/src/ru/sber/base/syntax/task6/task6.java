@@ -1,10 +1,8 @@
 package ru.sber.base.syntax.task6;
 import java.util.ArrayList; // динамический массив
-//import java.util.Random;
 public class task6 {
     private static final int size = 100;
     public static void main(String[] args) {
-//        Random random = new Random();
         ArrayList<Integer> array = new ArrayList<>(size); // контейнер для хранения элементов
 
         double y = 0.0;
